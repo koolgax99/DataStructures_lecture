@@ -1,0 +1,36 @@
+1. what is the fullform of ONION ?
+     1. Ethereum Classic   2.DeepOnion   3.Asch
+2. what is the fullform of POE ?
+     1. Burst   2.Po.et   3.Tierion
+3. what is the fullform of EMC ?
+     1. NAGA   2.Emercoin   3.Zcash
+4. what is the fullform of APPC ?
+     1. Kin   2.MonaCoin   3.AppCoins
+5. what is the fullform of BLT ?
+     1. Mercury   2.Bloom   3.BitClave
+6. what is the fullform of BTG ?
+     1. CRYPTO20   2.Emercoin   3.Bitcoin Gold
+7. what is the shortform of Po.et ?
+     1. WAVES   2.POE   3.ORME
+8. what is the shortform of QASH ?
+     1. IOC   2.QASH   3.BCO
+9. what is the shortform of Raiden Networ... ?
+     1. MOD   2.RDN   3.HPB
+10. what is the shortform of BitShares ?
+     1. ZCL   2.BTS   3.MTH
+11. what is the shortform of Aeon ?
+     1. AEON   2.   3.BTX
+12. what is the shortform of Tierion ?
+     1. SC   2.TNT   3.DTR
+13. what is the price of SunContract ?
+     1. 29337707.2385   2.30095388.5753   3.38923890.7691
+14. what is the price of Bytecoin ?
+     1. 925831659.245   2.843833234.909   3.83728844.3667
+15. what is the price of ZClassic ?
+     1. 53142750.0   2.352763462.0   3.36738020.2004
+16. what is the price of Komodo ?
+     1. 479490819.487   2.174675087.293   3.3515094194.13
+17. what is the price of Groestlcoin ?
+    1.33699225.0  2.241785856.506  3.48616807.7358
+18. what is the price of Propy ?
+    1.205891435.154  2.11637287829.8  3.26643939.2818

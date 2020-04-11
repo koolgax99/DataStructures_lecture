@@ -1,0 +1,36 @@
+1. what is the fullform of IXT ?
+     1. Cappasity   2.Ormeus Coin   3.iXledger
+2. what is the fullform of SOC ?
+     1. Ubiq   2.All Sports   3.Status
+3. what is the fullform of QBT ?
+     1. Qbao   2. COSS   3. VIBE
+4. what is the fullform of LKK ?
+     1. DigitalNote   2.WaBi   3.Lykke
+5. what is the fullform of WABI ?
+     1. Zilliqa   2.HTMLCOIN   3.WaBi
+6. what is the fullform of FAIR ?
+     1. Zeusshield   2.0x   3.FairCoin
+7. what is the shortform of ETHLend ?
+     1. QRL   2.LEND   3.VIBE
+8. what is the shortform of Trinity Netwo... ?
+     1. TNC   2.VEE   3.UKG
+9. what is the shortform of KuCoin Shares ?
+     1. ICX   2.KCS   3.WGR
+10. what is the shortform of InsurePal ?
+     1. SPHTX   2.SBD   3.IPL
+11. what is the shortform of DeepBrain Chain ?
+     1. ECC   2.ADT   3.DBC
+12. what is the shortform of BitClave ?
+     1. AEON   2.CAT   3.DCT
+13. what is the price of Nano ?
+     1. 1354682057.18   2.37498339.4811   3.242161617.668
+14. what is the price of YOYOW ?
+     1. 35899927.789   2.52063700.0   3.87694259.2489
+15. what is the price of BitcoinDark ?
+     1. 147434234.099   2.6547180860.33   3.144732197.175
+16. what is the price of TaaS ?
+     1. 44195801.3886   2.147234159.599   3.53893155.2513
+17. what is the price of Modum ?
+     1. 85693326.6438   2.66604775.708   3.53893155.2513
+18. what is the price of Binance Coin ?
+    1.68149084.4888  2.47463625.9933  3.984926912.9

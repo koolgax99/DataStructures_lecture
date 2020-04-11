@@ -1,0 +1,36 @@
+1. what is the fullform of XRP ?
+     1. Ripple   2. Feathercoin   3. Zilliqa
+2. what is the fullform of SALT ?
+     1. Groestlcoin   2.SALT   3.Byteball Bytes
+3. what is the fullform of PHR ?
+     1. Phore   2. ColossusCoinXT   3. ColossusCoinXT
+4. what is the fullform of ADT ?
+     1. Hshare   2.ColossusCoinXT   3.adToken
+5. what is the fullform of MIOTA ?
+     1. bitCNY   2.Telcoin   3.IOTA
+6. what is the fullform of ECC ?
+     1. Ethereum Classic   2.Nano   3.ECC
+7. what is the shortform of Wings ?
+     1. KNC   2.IDH   3.WINGS
+8. what is the shortform of PACcoin ?
+     1. NLC2   2.GAS   3.PAC
+9. what is the shortform of Storj ?
+     1. QSP   2.RCN   3.STORJ
+10. what is the shortform of Crown ?
+     1. CRW   2.MOON   3.QTUM
+11. what is the shortform of Everex ?
+     1. ARDR   2.EVX   3.MOT
+12. what is the shortform of Quantstamp ?
+     1. UKG   2.ZRX   3.QSP
+13. what is the price of Zcash ?
+     1. 37583714.56   2.1608221210.77   3.592685118.08
+14. what is the price of Energo ?
+     1. 52277789.137   2.37583714.56   3.29671572.3878
+15. what is the price of Streamr DATAcoin ?
+    1.287880000.0  2.36804602.0748  3.70002202.1938
+16. what is the price of Particl ?
+     1. 37498339.4811   2.213564442.379   3.129039172.074
+17. what is the price of Wings ?
+     1. 59026378.6557   2.   3.122053305.0
+18. what is the price of Ripple ?
+     1. 40627708203.1   2.46007437.6846   3.198076005.386

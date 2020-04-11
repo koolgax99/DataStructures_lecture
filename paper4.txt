@@ -1,0 +1,36 @@
+1. what is the fullform of REQ ?
+     1. Request Network   2. Emercoin   3. Kyber Network
+2. what is the fullform of IPL ?
+     1. InsurePal   2. Ethos   3. PACcoin
+3. what is the fullform of MCO ?
+     1. Steem   2.Monaco   3.RChain
+4. what is the fullform of GTO ?
+     1. BitcoinDark   2.Gifto   3.Modum
+5. what is the fullform of STORJ ?
+     1. FunFair   2.WeTrust   3.Storj
+6. what is the fullform of UNITY ?
+     1. Nuls   2.SuperNET   3.Datum
+7. what is the shortform of COSS ?
+     1. PPP   2.NAS   3.COSS
+8. what is the shortform of Bitcore ?
+     1. ZCL   2.BTX   3.ATM
+9. what is the shortform of DigitalNote ?
+     1. DRGN   2.XDN   3.SNGLS
+10. what is the shortform of BridgeCoin ?
+     1. BCO   2.XPA   3.IGNIS
+11. what is the shortform of Aion ?
+     1. MGO   2.FTC   3.AION
+12. what is the shortform of Stratis ?
+     1. FCT   2.STRAT   3.IGNIS
+13. what is the price of CoinDash ?
+    1.49118569.3836  2.1608221210.77  3.58311908.5954
+14. what is the price of Lisk ?
+    1.395683000.0  2.88105710.0  3.3515094194.13
+15. what is the price of CloakCoin ?
+    1.609998000.0  2.150702985544.0  3.52195552.0426
+16. what is the price of Modum ?
+     1. 53081280.0   2.66604775.708   3.66604775.708
+17. what is the price of Decentraland ?
+     1. 126332268.978   2.104178673.832   3.53893155.2513
+18. what is the price of Steem Dollars ?
+     1. 213564442.379   2.38409607.7597   3.68149084.4888
